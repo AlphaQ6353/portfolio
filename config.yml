@@ -1,0 +1,18 @@
+title: <p align="center"> Rajeev Kalose </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/rajeev-kalose-7275ab2a6/">LinkedIn</a> |
+  <a href="https://github.com/AlphaQ6353">GitHub</a>
+  
+  <br>
+  I’m currently working as a Graduate Software Engineer at Zeta, where I contribute to scalable backend systems and data-driven solutions.
+  Previously, I interned at Cereblis, where I worked on Salesforce automation, document parsing using Textract, and cloud-based data integration using AWS and Python.
+  My interests span across Data Science, Machine Learning, NLP, and Big Data. I’ve built full-stack projects involving real-time data sync, 
+  image classification, and AI-based web tools using technologies like Python, Go, React, Flask, Docker, EC2, and PostgreSQL.
+  Passionate about solving complex problems through clean code, automation, and scalable architecture.
+  <br>
+  </p>
+
+theme: jekyll-theme-minimal
